@@ -8,5 +8,4 @@ commonLabels:
 commonAnnotations:
   created_by: yuweichou
 patches:
-- image-tag.yaml 
-
+- image-tag.yaml
