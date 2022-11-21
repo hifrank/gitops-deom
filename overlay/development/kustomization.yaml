@@ -7,5 +7,5 @@ commonLabels:
   environment: dev
 commonAnnotations:
   created_by: yuweichou
-patches:
+patchesStrategicMerge:
 - image-tag.yaml
